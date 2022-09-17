@@ -1,6 +1,11 @@
-# Python IDEs Installation
+# Table of Contents
+* [Python IDEs Installation](#installation)
+    * [Python IDLE](#idle)
+        * 
 
-* ## Python IDLE
+## Python IDEs Installation <a name="installation"></a>
+
+* ### Python IDLE <a name="idle"></a>
 
 *
     * ### Installing Python IDLE on Windows PC
@@ -23,7 +28,7 @@ https://www.linkedin.com/learning/programming-foundations-fundamentals-3/install
 
 **Reference** : Davis, A. (2019, July 22). Installing Python on a Mac - Programming foundations: Fundamentals
 
-* ## Spyder (Anaconda)
+* ### Spyder (Anaconda)
 *
     * ### Installing Spyder (Anaconda3) on Windows PC
       This video demonstrates how to execute Python by using the Jupyter Notebook and Spyder with Anaconda for Windows.
@@ -43,5 +48,4 @@ https://www.youtube.com/watch?v=5mDYijMfSzs
 https://www.youtube.com/watch?v=daVgEXjv6DE
 
 **Reference** : Programming Knowledge. (2018, December 18). Install Anaconda Python, Jupyter notebook and Spyder on Mac
-
 
