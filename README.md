@@ -43,3 +43,6 @@ The way Python works is as follows:
 1. A Python virtual machine is created where the packages (libraries) are installed. Think of a virtual machine as a container.
 2. The python code is then written in .py files
 3. CPython compiles the Python code to bytecode. This bytecode is for the Python virtual machine.
+
+### Source
+https://www.zigya.com/blog/what-is-python/
