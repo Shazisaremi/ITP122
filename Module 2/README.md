@@ -238,7 +238,8 @@ it depends on the problem and the programmer to choose the most feasible and rel
 
 # Activities
 
-## **Exercise 1**:
+## **Learning Activity 1**
+## Exercise 1:
 
 Flight Deals Alice is planning a vacation to Melbourne soon and wants to book flight tickets from Sydney to Melbourne
 one month in advance to get the best deal. She has come across a lucrative deal where the cost of a two-way ticket from
@@ -283,7 +284,7 @@ Write a Python program to calculate the above. Convert your answers to float and
 >
 >**Circumference of a circle** = pi * radius2
 
-## **Exercise 3**:
+## **Learning Activity 2**
 
 - Convert this float into an integer:
     - variable4 = 23.0
@@ -294,7 +295,7 @@ Write a Python program to calculate the above. Convert your answers to float and
 - Convert this string into an integer:
     - variable4 = “123”
 
-## **Exercise 4**:
+## **Learning Activity 3**
 
 Use the operators to solve for the following equation and print the outputs
 
@@ -322,7 +323,7 @@ Use the operators to solve for the following equation and print the outputs
 >
 > Assign 10 to x. If x is bigger than 0, print "x is a positive number".
 
-## **Exercise 5:**
+## **Learning Activity 4**
 
 Use the operators to solve for the following equation and print the outputs
 
@@ -337,7 +338,7 @@ Use the operators to solve for the following equation and print the outputs
       even/odd’.
     - Add 5 to first_number and -2 to second_number, and perform tasks a and b again.
     
-## **Exercise 6:**
+## **Learning Activity 5**
 An algorithm to check if a student has passed in an exam or not, you can follow the given steps:
 
 >Step 1: START
