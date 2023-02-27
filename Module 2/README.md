@@ -355,6 +355,33 @@ An algorithm to check if a student has passed in an exam or not, you can follow 
 >
 Write an algorithm for the following tasks.
 
-**Check weather a given numbe r is even or odd**
+**Check whether a given numbe r is even or odd**
 
-**Check weather a given number is a prime number.**
+>Step 1: START
+>
+>Step 2: Declare a variable
+>
+>Step 3: Store the number in a
+>
+>Step 5: Check if the residual of a divide in 2 is zero. If yes, then return “even” else return “odd”
+>
+>Step 6: STOP
+>
+
+**Check whether a given number is a prime number.**
+
+>STEP 1: Take num as input.
+>
+>STEP 2: Initialize a variable temp to 0.
+>
+>STEP 3: Iterate a “for” loop from 2 to num/2.
+>
+>STEP 4: If num is divisible by loop iterator, then increment temp.
+>
+>STEP 5: If the temp is equal to 0,
+>
+>    Return “Num IS PRIME”.
+>
+>Else,
+>
+>    Return “Num IS NOT PRIME”.
